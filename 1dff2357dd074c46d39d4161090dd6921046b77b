@@ -1,0 +1,1 @@
+{"jobID":"50dd855a-4978-e5da-0aac-633ef9952e85","spec":{"type":"policy","cause":{"Message":"","User":"Kenneth Yu \u003ckyu@triplelift.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
